@@ -1,0 +1,5 @@
+C program to print Hello World 1:
+#include <stdio.h>
+void main(){
+printf("Hello World");
+}
