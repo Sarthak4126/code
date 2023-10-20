@@ -1,0 +1,5 @@
+C program to print Hello World using newline character:
+#include <stdio.h>
+void main(){
+printf("Hello World\nHello World");
+}
