@@ -1,0 +1,15 @@
+output:
+enter the radius of circle: 15
+area of circle is: 706.5
+perimeter of circle is: 94.2
+
+enter the side of a square: 10
+area of square is: 100
+perimeter of square is: 40
+
+enter the length and width of rectangle: 20 30
+area of rectangle: 600
+perimeter of rectangle: 100
+
+
+
