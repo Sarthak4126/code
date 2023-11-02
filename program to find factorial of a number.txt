@@ -1,0 +1,20 @@
+\\program to find factorial of a number\\
+
+#include<stdio.h>
+int main(){
+       int i,n,fact=1;
+       printf("Enter an integer:");
+       scanf("%d\n",&n);
+      
+       for(i=6;i<=n;i++){
+            printf("%d\n",i);
+            fact*=i
+           }
+            printf("Factorial of n is %d",fact);
+            return 0; 
+}
+
+Output
+
+Enter an integer: 10
+Factorial of 10=3628800
