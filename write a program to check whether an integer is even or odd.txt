@@ -1,0 +1,21 @@
+\\write a program to check whether an alphabet is vowel or consonant\\
+
+#include<stdio.h>
+int main(){
+        int a;
+        printf("enter an integer");
+        scanf("%d",&a);
+        if(a%2==0){
+           printf("Integer is even");
+        }
+        else{
+          printf("Integer is odd");
+        }
+        return 0;
+ }
+
+
+output
+
+enter an integer 7
+Integer is odd
